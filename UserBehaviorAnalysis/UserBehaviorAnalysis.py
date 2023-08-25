@@ -15,8 +15,8 @@ from libs.udfs import find_programing_language, get_url
 from libs.utils import get_spark_config, load_df, reformat_date
 
 MONGODB_URI     = 'mongodb://127.0.0.1/'
-DB_INPUT        = 'DEP303_ASM1'
-DB_OUTPUT       = 'DEP303_ASM1'
+DB_INPUT        = 'STODB'
+DB_OUTPUT       = 'STODB'
 QUESTIONS_TBL   = 'Questions'
 ANSWERS_TBL     = 'Answers'
 
